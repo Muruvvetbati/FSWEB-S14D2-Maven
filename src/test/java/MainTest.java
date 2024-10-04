@@ -1,3 +1,6 @@
+import org.example.model.Bed;
+import org.example.model.Lamp;
+import org.example.model.Wardrobe;
 import org.example.model.*;
 import org.example.model.enums.LampType;
 import org.example.model.enums.PaintColor;
